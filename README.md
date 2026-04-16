@@ -14,3 +14,21 @@ Simple configuration for different class rotations
 Lightweight and easy to run alongside the game
 
 Designed to enhance convenience and control during gameplay by centralizing skill inputs into a faster, more accessible system.
+
+
+How it works:
+
+Press Volume UP to Start/Stop Auto Skill
+Press Volume DOWN to trigger running animation (mapped to Space key on keyboard)
+
+Requirements:
+
+Install AQW Pocket
+https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0
+or
+Install Puffin Browser APK (for playing AQW smoothly on mobile browser)
+https://play.google.com/store/apps/details?id=com.cloudmosa.puffinFree&hl=en-US
+
+Install Key Mapper
+https://play.google.com/store/apps/details?id=io.github.sds100.keymapper
+Import the provided data.json configuration into the Key Mapper app

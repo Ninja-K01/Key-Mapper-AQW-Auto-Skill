@@ -17,14 +17,20 @@ Designed to enhance convenience and control during gameplay by centralizing skil
 
 
 
+
+
 How it works:
+
 
 Press Volume UP to Start/Stop Auto Skill
 
 Press Volume DOWN to trigger running animation (mapped to Space key on keyboard)
 
 
+
+
 Requirements:
+
 
 Install AQW Pocket https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0 
 

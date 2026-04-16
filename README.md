@@ -23,12 +23,14 @@ Press Volume DOWN to trigger running animation (mapped to Space key on keyboard)
 
 Requirements:
 
-Install AQW Pocket
-https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0 
+Install AQW Pocket https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0 
+
 or 
-Install Puffin Browser APK (for playing AQW smoothly on mobile browser)
+
+Install Puffin Browser APK 
 https://play.google.com/store/apps/details?id=com.cloudmosa.puffinFree&hl=en-US
 
 Install Key Mapper
 https://play.google.com/store/apps/details?id=io.github.sds100.keymapper
+
 Import the provided data.json configuration into the Key Mapper app

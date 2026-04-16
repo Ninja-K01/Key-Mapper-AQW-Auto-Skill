@@ -16,10 +16,13 @@ Lightweight and easy to run alongside the game
 Designed to enhance convenience and control during gameplay by centralizing skill inputs into a faster, more accessible system.
 
 
+
 How it works:
 
 Press Volume UP to Start/Stop Auto Skill
+
 Press Volume DOWN to trigger running animation (mapped to Space key on keyboard)
+
 
 Requirements:
 

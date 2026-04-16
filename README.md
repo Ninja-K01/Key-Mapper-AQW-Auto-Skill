@@ -24,8 +24,8 @@ Press Volume DOWN to trigger running animation (mapped to Space key on keyboard)
 Requirements:
 
 Install AQW Pocket
-https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0
-or
+https://github.com/anthony-hyo/aqw-mobile/releases/tag/v2.4.0 
+or 
 Install Puffin Browser APK (for playing AQW smoothly on mobile browser)
 https://play.google.com/store/apps/details?id=com.cloudmosa.puffinFree&hl=en-US
 

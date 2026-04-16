@@ -43,3 +43,11 @@ Install Key Mapper
 https://play.google.com/store/apps/details?id=io.github.sds100.keymapper
 
 Import the provided data.json configuration into the Key Mapper app
+
+
+How to Activate Auto Skill
+https://drive.google.com/file/d/1Jd7fB0hVHrGv0Thdy3afnKyN5WARxwUK/view?usp=sharing
+
+
+How to setup own combo
+https://drive.google.com/file/d/1JdF8STh9utfM1pjmvkkgsjZXCByWYQ7i/view?usp=sharing
